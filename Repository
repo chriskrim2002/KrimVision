@@ -1,0 +1,14 @@
+krimvision/
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── main.py
+│   ├── schema.py
+│   ├── graph.py
+│   └── services/
+│       ├── __init__.py
+│       ├── sam_service.py
+│       └── meta_model_service.py
+├── .env
+├── requirements.txt
+└── README.md
